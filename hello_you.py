@@ -14,7 +14,7 @@ enjoy = input("wat do u enjoy doing?: ")
 string = "ur name is {} , ur age is {} , u live in the {} city , u enjoy doing {}."
 output = string.format(name,age,city,enjoy)
 
-# Print output to screen
+# Print output to screen testing
 
 print(output)
 
